@@ -8,11 +8,11 @@ GPU: Rx 570
 
 Nvme xray disk 256gb <<(Windows 10)
 
-Kingston ssd 110gb <<(Big Sur 11.3)
+Kingston ssd 110gb <<(Big Sur 11.6)
 
 
-Dual boot << opencore 7.0
-Big Sur 11.3 and Windows 10
+Opencore 7.3
+Big Sur 11.6
 
 Followed dortania guides. step by step
 
