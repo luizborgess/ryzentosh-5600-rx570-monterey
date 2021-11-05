@@ -8,13 +8,15 @@ GPU: Rx 570
 
 Nvme xray disk 256gb <<(Windows 10)
 
-Kingston ssd 110gb <<(Big Sur 11.6)
+Kingston ssd 110gb <<(Monterey 12.0.1)
 
 
-Opencore 7.3
-Big Sur 11.6
+Opencore 7.5
+Monterey 12.0.1
 
 Followed dortania guides. step by step
+Disable Above 4G decoding in Bios
+Disable CSM
 
 
 ![](image1.png)
