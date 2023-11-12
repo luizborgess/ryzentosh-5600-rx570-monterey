@@ -1,22 +1,26 @@
 # ryzentosh-asrock-a320m-rx570-Big-Sur
 
-CPU: Ryzen 5 2600
+
+### Hardware
+
+CPU: Ryzen 5 5600
 
 GPU: Rx 570
 
-16gb ram
+RAM: 48gb
 
-Nvme xray disk 256gb <<(Windows 10)
+### Software
 
-Kingston ssd 110gb <<(Monterey 12.0.1)
+Opencore 9.6
+
+Monterey 12.6.4
 
 
-Opencore 7.5
-Monterey 12.0.1
+### Bios:
 
-Followed dortania guides. step by step
-Disable Above 4G decoding in Bios
+Enable Above 4G decoding
 Disable CSM
 
+Followed dortania guides. step by step
 
 ![](image1.png)
