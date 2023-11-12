@@ -21,6 +21,10 @@ Monterey 12.6.4
 Enable Above 4G decoding
 Disable CSM
 
+
 Followed dortania guides. step by step
 
-![](image1.png)
+
+Dont forget to generate your own serial.
+
+![](Update2.png)
