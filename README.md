@@ -1,4 +1,4 @@
-# ryzentosh-Ryzen-5-5600-rx570-Big-Sur
+# ryzentosh-R5-5600-rx570-Monterey
 
 
 ### Hardware
@@ -13,8 +13,10 @@ RAM: 48gb
 
 Opencore 9.6
 
-Monterey 12.6.4
 
+Branch main: Monterey 12.6.4
+
+Branch big_sur: Big Sur 11.3.0
 
 ### Bios:
 
