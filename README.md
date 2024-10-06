@@ -1,5 +1,6 @@
 # ryzentosh-R5-5600-rx570-Monterey
 
+![](Update2.png)
 
 ### Hardware
 
@@ -29,4 +30,4 @@ Followed dortania guides. step by step
 
 Dont forget to generate your own serial.
 
-![](Update2.png)
+
