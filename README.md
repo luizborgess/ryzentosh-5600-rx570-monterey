@@ -1,4 +1,4 @@
-# ryzentosh-asrock-a320m-rx570-Big-Sur
+# ryzentosh-Ryzen-5-5600-rx570-Big-Sur
 
 
 ### Hardware
